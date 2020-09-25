@@ -1,36 +1,43 @@
 const Config = {
-    name: "user",
+    name: "cpl",
     scale: 1,
     Links: [
         [
-            "site",
+            "chat",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["whatsapp", "https://web.whatsapp.com/"],
+                ["telegram", "https://web.telegram.org/"]
             ]
         ],
         [
-            "site",
+            "news",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["lobsters", "https://lobste.rs/"],
+                ["hacker", "https://news.ycombinator.com/"],
+                ["cron.weekly", "https://ma.ttias.be/cronweekly/"],
+                ["golang.weekly", "https://golangweekly.com/"]
             ]
         ],
         [
-            "site",
+            "reads",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                
             ]
         ],
         [
-            "site",
+            "youtube",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["microservices", "https://youtu.be/y8OnoxKotPQ"],
+                ["overengineer", "https://youtu.be/-AQfQFcXac8"],
+                ["the good book", "https://youtu.be/EIBRdBVkDHQ"],
+                ["upsilon", "https://youtu.be/B01HWsilRqs"],
+                ["yuri was right", "https://youtu.be/IQPsKvG6WMI"]
+            ]
+        ],
+        [
+            "scripts",
+            [
+                ["honk.sh", "http://cpl.li/honk.sh"]
             ]
         ]
     ]
