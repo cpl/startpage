@@ -6,7 +6,7 @@ const Config = {
             "github",
             [
                 ["trending", "https://github.com/trending"],
-                ["stars", "https://github.com/"]
+                ["stars", "https://github.com/"],
                 ["repos",
                     [
                         ["awesome go", "https://github.com/avelino/awesome-go"],
