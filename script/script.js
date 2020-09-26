@@ -3,10 +3,42 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "chat",
+            "github",
             [
-                ["whatsapp", "https://web.whatsapp.com/"],
-                ["telegram", "https://web.telegram.org/"]
+                ["trending", "https://github.com/trending"],
+                ["stars", "https://github.com/"]
+                ["repos",
+                    [
+                        ["awesome go", "https://github.com/avelino/awesome-go"],
+                        ["build your own x", "https://github.com/danistefanovic/build-your-own-x"],
+                        ["macOS security", "https://github.com/drduh/macOS-Security-and-Privacy-Guide"],
+                        ["dev roadmap", "https://github.com/kamranahmedse/developer-roadmap"],
+                        ["system design", "https://github.com/donnemartin/system-design-primer"],
+                        ["api checklist", "https://github.com/shieldfy/API-Security-Checklist"],
+                        ["datasets", "https://github.com/awesomedata/awesome-public-datasets"],
+                        ["\"free\" crap", "https://github.com/ripienaar/free-for-dev"],
+                        ["practical projects", "https://github.com/karan/Projects']
+                    ]
+                ]
+            ]
+        ],
+        [
+            "tools",
+            [
+                ["regex", "http://regexr.com/"],
+                ["cryptii", "https://cryptii.com/pipes/enigma-machine"],
+                ["hexed", "https://hexed.it/"],
+                ["shell explain", "https://explainshell.com/"],
+                ["json2go", "https://mholt.github.io/json-to-go/"],
+                ["down detector", "https://downdetector.co.uk/"],
+                ["domain history", "https://whoisrequest.com/history/"],
+                ["draw.io", "https://app.diagrams.net/"],
+                ["uptime calc", "https://tryhexadecimal.com/sla-uptime-calculator"],
+                ["promlens", "https://promlens.com/"],
+                ["random user", "https://www.randomuser.me/"],
+                ["coolors", "https://coolors.com"],
+                ["asciinema", "https://asciinema.org/"],
+                ["quantumJS", "https://quantumjavascript.app/"]
             ]
         ],
         [
