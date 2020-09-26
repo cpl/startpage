@@ -17,7 +17,7 @@ const Config = {
                         ["api checklist", "https://github.com/shieldfy/API-Security-Checklist"],
                         ["datasets", "https://github.com/awesomedata/awesome-public-datasets"],
                         ["'free' tiers", "https://github.com/ripienaar/free-for-dev"],
-                        ["practical projects", "https://github.com/karan/Projects']
+                        ["practical projects", "https://github.com/karan/Projects"]
                     ]
                 ]
             ]
