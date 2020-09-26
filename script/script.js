@@ -16,7 +16,7 @@ const Config = {
                         ["system design", "https://github.com/donnemartin/system-design-primer"],
                         ["api checklist", "https://github.com/shieldfy/API-Security-Checklist"],
                         ["datasets", "https://github.com/awesomedata/awesome-public-datasets"],
-                        ["\"free\" crap", "https://github.com/ripienaar/free-for-dev"],
+                        ["'free' tiers", "https://github.com/ripienaar/free-for-dev"],
                         ["practical projects", "https://github.com/karan/Projects']
                     ]
                 ]
