@@ -6,20 +6,20 @@ const Config = {
             "github",
             [
                 ["trending", "https://github.com/trending"],
-                ["stars", "https://github.com/"],
-                ["repos",
-                    [
-                        ["awesome go", "https://github.com/avelino/awesome-go"],
-                        ["build your own x", "https://github.com/danistefanovic/build-your-own-x"],
-                        ["macOS security", "https://github.com/drduh/macOS-Security-and-Privacy-Guide"],
-                        ["dev roadmap", "https://github.com/kamranahmedse/developer-roadmap"],
-                        ["system design", "https://github.com/donnemartin/system-design-primer"],
-                        ["api checklist", "https://github.com/shieldfy/API-Security-Checklist"],
-                        ["datasets", "https://github.com/awesomedata/awesome-public-datasets"],
-                        ["'free' tiers", "https://github.com/ripienaar/free-for-dev"],
-                        ["practical projects", "https://github.com/karan/Projects"]
-                    ]
-                ]
+                ["stars", "https://github.com/"]
+            ]
+        ],
+        ["repos",
+            [
+                ["awesome go", "https://github.com/avelino/awesome-go"],
+                ["build your own x", "https://github.com/danistefanovic/build-your-own-x"],
+                ["macOS security", "https://github.com/drduh/macOS-Security-and-Privacy-Guide"],
+                ["dev roadmap", "https://github.com/kamranahmedse/developer-roadmap"],
+                ["system design", "https://github.com/donnemartin/system-design-primer"],
+                ["api checklist", "https://github.com/shieldfy/API-Security-Checklist"],
+                ["datasets", "https://github.com/awesomedata/awesome-public-datasets"],
+                ["'free' tiers", "https://github.com/ripienaar/free-for-dev"],
+                ["practical projects", "https://github.com/karan/Projects"]
             ]
         ],
         [
